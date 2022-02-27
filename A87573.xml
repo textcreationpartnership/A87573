@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A more exact and full relation of many admirable passages, which happened during the whole siege of Lime. VVherein Gods mercy is oftentimes miraculously expressed towards the inhabitants of the said place. As also the manner of relieving of the town of Lyme, by the Right Honourable, Robert Earl of Warwick, Lord high Admirall of England. As it was sent to a speciall friend, by William Iesop, Esq; secretary to his Honour. Also the names and number of such persons as came fron Prince Maurice, to the Earle of Warwick. Published according to order.</title>
+            <author>Jesop, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87573</idno>
+            <idno type="STC">Wing J685A</idno>
+            <idno type="STC">Thomason E51_15</idno>
+            <idno type="STC">ESTC R192</idno>
+            <idno type="EEBO-CITATION">99860608</idno>
+            <idno type="PROQUEST">99860608</idno>
+            <idno type="VID">112732</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87573)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112732)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 9:E51[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A more exact and full relation of many admirable passages, which happened during the whole siege of Lime. VVherein Gods mercy is oftentimes miraculously expressed towards the inhabitants of the said place. As also the manner of relieving of the town of Lyme, by the Right Honourable, Robert Earl of Warwick, Lord high Admirall of England. As it was sent to a speciall friend, by William Iesop, Esq; secretary to his Honour. Also the names and number of such persons as came fron Prince Maurice, to the Earle of Warwick. Published according to order.</title>
+                  <author>Jesop, William.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Iune 19. Printed for Mathew Walbanke,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Maurice, --  Prince, 1620-1652.</term>
+               <term>Warwick, Robert Rich, --  Earl of, 1587-1658.</term>
+               <term>Lyme Regis (Dorset) --  Siege, 1644 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112732:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 16 -->
+            <p>A more exact and full RELATION Of many ADMIRABLE PASSAGES, Which happened During the whole Siege of LIME.</p>
+            <p>Wherein <hi>Gods</hi> Mercy is often<g ref="char:EOLhyphen"/>times miraculouſly expreſſed towards the Inhabitants of the ſaid place.</p>
+            <p>As alſo the manner of relieving of the Town of LYME, by the Right Honourable, <hi>Robert</hi> Earle of <hi>Warwick,</hi> Lord high Admirall of ENGLAND.</p>
+            <p>As it was ſent to a ſpeciall Friend, by <hi>William Ieſop,</hi> 
+               <abbr>Eſq</abbr> Secretary to his Honour.</p>
+            <p>Alſo the Names and number of ſuch perſons as came from Prince <hi>Maurice,</hi> to the Earle of <hi>Warwicke.</hi>
+            </p>
+            <p>Publiſhed according to Order.</p>
+            <p>
+               <hi>Iune</hi> 19. Printed for <hi>Mathew Walbanke.</hi> 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:112732:2"/>
+            <!-- PDF PAGE 17 -->
+            <pb n="1" facs="tcp:112732:2"/>
+            <!-- PDF PAGE 17 -->
+            <head>A more full and exact Relation of many admirable Paſſages which hapned during the whole Siege of <hi>Lyme.</hi>
+            </head>
+            <opener>
+               <salute>Deare Friend,</salute>
+            </opener>
+            <p>AFter many dayes of ſadneſſe for poore <hi>Lyme,</hi> God hath at laſt vouchſafed a day of delive<g ref="char:EOLhyphen"/>rance, the enemy having this morning a<g ref="char:EOLhyphen"/>bout two of the clock raiſed his ſiege, and is gone to <hi>Exceſter</hi> after his loſſe of 105. Officers, beſide ſome more ſuperiour Officers, 25. Gunners, and more common Souldiers then they loſt at <hi>Briſtoll</hi> and <hi>Exceſter,</hi> as ſome of themſelves confeſt. I was this day in <hi>Lyme,</hi> and had a hand in pulling downe ſome part of the Huts left in the enemies Quar<g ref="char:EOLhyphen"/>ters. He that ſees the Line about the Towne, and compares the ſlenderneſſe of it with the ſollidity and ſtrength of the enemies, will eaſily grant that the defence of Heaven hath beene their munition of Rocks. The truth is, it is little leſſe then a miracle they ſhould hold out ſo long and ſo violent a Siege, the Towne ſtanding at the bottome of two Hills, and their Workes being ſo low and thinne, that I my ſelfe could in many places runne over them, and a ſtrong hand may in many parts thruſt them down. About foure dayes agoe the enemy ſhot into the
+<pb n="2" facs="tcp:112732:3"/>
+               <!-- PDF PAGE 18 -->Towne bars of Iron, pieces of Anchors, and great ſhot, blowne up to as great a meaſure of <gap reason="illegible: bleedthrough" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as was poſſible (they having a forge on purpoſe) which falling on Houſes fired many, yet were ſud<g ref="char:EOLhyphen"/>denly quenched, and with them onely three men hurt. On Thurſday night 26 came in from the enemy. amongſt the reſt Lieutenant <hi>Faire</hi> of the Lord <hi>Barlens</hi> Regiment, he came aboard our Ship yeſterday, and this day I ſaw him within the Town, his wife alſo and her brother came in. This day about ten of <hi>Inchiquins</hi> Regiment came in; one Iriſh woman left behinde was ſlaine and pulled almoſt to pieces this day by the women of <hi>Lyme.</hi> Foure o<g ref="char:EOLhyphen"/>ther women were taken, being beggars, left behinde by their companions, and ſet on worke to pull downe the enemies Fortifications, to perfect which the Country will alſo be ſummoned in, their hands contributing to raiſe them. There are very many Houſes burnt, yet the other day a Granado falling into a roome, and breaking on a bed wherein lay three children, not one of them had any harme: there is ſcarce a Houſe in the towne that is not battered, and ſcarce a roome into which ſhot hath not beene made. At the laſt great fire, two maids carrying betwixt them a veſſell of water, had three of their hands ſhot off. The enemy is marched to <hi>Exceſter.</hi> This day a Meſſenger came into the towne from my Lord Generall, and brings word that his Excellency intended to be at <hi>Dorcheſter</hi> this night.</p>
+            <p>My Lord Admiralls noble and faithfull affecti<g ref="char:EOLhyphen"/>on to this towne hath gained an acknowledgement
+<pb n="3" facs="tcp:112732:3"/>
+               <!-- PDF PAGE 18 -->that they owe their lives, under God, to his Lord<g ref="char:EOLhyphen"/>ſhip.</p>
+            <p>Much praiſe is due to God for poore <hi>Lymes</hi> de<g ref="char:EOLhyphen"/>liverance, it being of ſuch mighty conſequence to bring in the Weſt, who reſolved long ſince to obey no commands on the other ſide till <hi>Lyme</hi> were taken. Stirre up all Gods people to acknowledge the great<g ref="char:EOLhyphen"/>neſſe of this mercy, though none of you can rate it as thoſe that beheld it, in whoſe eyes it is very wonderfull.</p>
+            <closer>
+               <dateline>
+                  <hi>From aboard His Majeſties ſhip</hi> the <hi>James,</hi> 
+                  <date>Iune 15. 1644,</date>
+               </dateline>
+               <signed>Your Faithfull friend <hi>W. JESOP.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="4" facs="tcp:112732:4"/>
+            <!-- PDF PAGE 19 -->
+            <head>Poſt-ſcript.</head>
+            <head type="sub">An other Letter ſent from a Gent. of worth, out of his Majesties Ship the <hi>James,</hi> to his Friend in <hi>London</hi> to the ſame effect.</head>
+            <p>THe 14 of <hi>June,</hi> Prince <hi>Maurice</hi> and the reſt of the Kings Forces, were ſeene to draw off their Ordnance, which encouraged the Towne from a Fort they had on the Eaſt ſide to play ſore upon them, ſo that when the teames were readie to drive a<g ref="char:EOLhyphen"/>way, two or three Oxen at once were cut off and ſeen to fal which made the enemy (the better to get them off) to ſtorme the Towne in that part, and thereby blinding the view of the Fort by their ſmall ſhot, had the better opportunitie of conveying their Guns.</p>
+            <p>This morning the coaſts being cleare, we went a ſhore into the Towne, viewed the workes thereof, and therein the greateſt miracle that could be ima<g ref="char:EOLhyphen"/>gined; their paper Fortifications poorly, though reſolutely mann'd by weake Souldiers, and the pow<g ref="char:EOLhyphen"/>erfull batteries of the Enemie, and their generall ad<g ref="char:EOLhyphen"/>vantages over all or part of the Towne was throughly viewed and cenſured, but the obſervation of the ſame, from thoſe cruell intendments, cannot be ſufficiently wondred at, and as the Towne fre<g ref="char:EOLhyphen"/>quently diſcourſeth, had Prince <hi>Maurice</hi> but ob<g ref="char:EOLhyphen"/>tained
+<pb n="5" facs="tcp:112732:4"/>
+               <!-- PDF PAGE 19 -->one Commander of theirs (that is God and their good Cauſe) he had proved Victor with halfe the force he brought by relation of the Country people thereabout. The Enemie curſes the un<g ref="char:EOLhyphen"/>luckie houre of his coming thither, having loſt from firſt to laſt about 2000. The Towne ſixſcore with the moſt.</p>
+            <p>There came in voluntarily, and with much danger into the Town the other night, one Lieutenant <hi>Paire,</hi> an Enſigne, Corporall, and 20 Souldiers that were of the Lord <hi>Inchiquin's</hi> Regiment, and were up<g ref="char:EOLhyphen"/>on the Guard that night, who have demeaned them<g ref="char:EOLhyphen"/>ſelves very civilly, being readie to beare Armes for the Parliament when they ſhall be commanded; ſince that, very neare a 100 of the honeſteſt are eſca<g ref="char:EOLhyphen"/>ped away from the Enemies Army, and returned to the Towne offering them their ſervice, their induce<g ref="char:EOLhyphen"/>ments of their comming away, being (as themſelves ingeniouſly confeſſe) the curſed oathes and helliſh acts of the Souldiers, as alſo the great influence the Iriſh Rebells and Papiſts, (whereof there are great ſtore) have upon the Prince and principall Com<g ref="char:EOLhyphen"/>manders. The Towne is wholly employed this day about ſlighting the Enemies works, the cauſe of Prince <hi>Maurice</hi> ſo ſuddaine haſt away from the ſiege, is (as we have it from ſome of their owne men this day taken) ſome ſadding newes they received yeſterday by three ſeverall poſts of Sir <hi>Ralph Hoptons</hi> weakneſſe, and their miſfortunes in all parts.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
